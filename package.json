@@ -1,0 +1,20 @@
+{
+  "name": "countriescapitalguessquizapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Charindu Bandaranaayake",
+  "license": "ISC",
+  "description": "Simple Quiz app coutries capital",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "pg": "^8.12.0"
+  }
+}
